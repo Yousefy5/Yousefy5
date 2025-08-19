@@ -26,6 +26,3 @@
 [<img src="https://static.cdnlogo.com/logos/k/34/khamsat.svg" alt="Khamsat" width="55" height="55">](https://khamsat.com/user/yousefy5) 
 &nbsp;&nbsp;
 [<img src="https://cdn.brandfetch.io/id68GGrF4m/w/250/h/250/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748096053980" alt="Mostaql" width="55" height="55">](https://mostaql.com/onboarding/reviewing)
-
----
-
