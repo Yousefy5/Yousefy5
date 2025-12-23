@@ -2,13 +2,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=535&lines=Hello!+This+is+Yousef.;React+Front-End+Developer.)
 
 ---
-
-- 🎨 **Front-End Web Developer** specializing in building responsive, user-friendly websites.  
-- 💻 Skilled in **HTML, CSS, JavaScript, and Bootstrap**.  
-- 🔧 I enjoy turning ideas into **clean, functional designs** that work seamlessly across all devices.  
-- 🧩 Strong **problem-solving skills** and attention to detail.  
-
----
 ## 🛠️ Skills  
 
 
