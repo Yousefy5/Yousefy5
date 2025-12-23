@@ -21,8 +21,3 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" alt="LinkedIn" width="55" height="55">](https://www.linkedin.com/in/yousef-sayed-ahmed-7b620431a/) 
 &nbsp;&nbsp;
-[<img src="https://static.cdnlogo.com/logos/u/14/upwork.svg" target="_blank" alt="Upwork" width="55" height="55">](https://www.upwork.com/freelancers/~013d76ad39640a6167?mp_source=share) 
-&nbsp;&nbsp; 
-[<img src="https://static.cdnlogo.com/logos/k/34/khamsat.svg" target="_blank" alt="Khamsat" width="55" height="55">](https://khamsat.com/user/yousefy5) 
-&nbsp;&nbsp;
-[<img src="https://cdn.brandfetch.io/id68GGrF4m/w/250/h/250/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748096053980" target="_blank" alt="Mostaql" width="55" height="55">](https://mostaql.com/onboarding/reviewing)
